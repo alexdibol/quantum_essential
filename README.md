@@ -1,4 +1,3 @@
-````markdown
 # Quantum Essential
 
 **Quantum Essential** is an educational research repository dedicated to explaining quantum computing, quantum-inspired algorithms, and hybrid quantum-classical architectures for financial professionals.
@@ -578,5 +577,4 @@ The journey begins with representation.
 
 It ends with discovery.
 
-```
-```
+
